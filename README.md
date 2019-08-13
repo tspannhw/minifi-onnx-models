@@ -34,3 +34,11 @@ https://github.com/onnx/onnx-tensorrt
 
 https://www.tensorflow.org/lite/guide/inference
 
+https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html#onnx_workflow
+
+https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_ONNX.html
+
+https://github.com/lutzroeder/Netron
+
+http://visualdl.paddlepaddle.org/
+
